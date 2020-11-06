@@ -1,0 +1,126 @@
+#main-heading{
+    font-size: xx-large;
+    color: rgb(1, 1, 39);
+    float: right;
+    font-size: 72px;
+    
+}
+#team-logo{
+    background-color: bisque;
+    display: block;
+    float: right;
+}
+#club{
+    background-color: white;
+    background-color: bisque;
+    /* border-radius: 100%; */
+    border-bottom-left-radius: 100%;
+}
+#logo{
+    border: 10px solid red;
+    
+    border-radius: 100%;    
+}
+#top-header{
+    text-align: center;
+    background-color:bisque;
+    /* border: 3px solid red; */
+    display: block;
+    float: left;
+    width: 100%;
+}
+li{
+    list-style: none;
+}
+#table-header{
+    color: tomato;
+    font-size: xx-large;
+    background-color: black;
+}
+#td1,h2{
+    background-color: white;
+    font-size: xx-large;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    
+}
+
+h2{
+    background-color: limegreen;
+    
+}
+ #td1:hover,#td0:hover{
+    background-color: gray;
+ }
+tr:hover{
+    background-color: green;
+}
+#td0{
+    background-color: bisque;
+    font-size: xx-large;
+}
+#search{
+    background-color: blue;
+    border:2px solid blue;
+}
+table{
+    
+    border: 5px solid black;
+}
+#matches,#team-logo,#search{
+    margin: 20px,auto,20px,auto;
+    text-align: center;
+}
+#matches{
+    background-color: bisque;
+    display: block;
+    min-height: 500px;
+}
+#foot{
+    background-color: slategray;
+    text-align: center;
+    float: right;
+    width: 100%;
+}
+#a1,#a2,#a3,#first,#second,#third{
+    font-size: larger;
+    float: right;
+    /* height: 400px; */
+    width: 30%;
+
+}
+p{
+    text-align: justify;
+    margin-left: 100px;
+
+}
+#copy{
+    text-align: center;
+}
+#csv-file{
+    display: block;
+}
+#direction{
+    display: block;
+    text-align: left;
+    background-color: bisque;
+    
+    
+}
+a:link,a:visited{
+    color: black;
+    
+}
+
+#but1:hover,#but2:hover,#but3:hover{
+    background-color: chartreuse;
+}
+
+#but1,#but2,#but3,#tit1,#tit2,input{
+    font-size: larger;
+
+}
+h6{display: inline;
+    font-size: larger;
+}
